@@ -1,6 +1,6 @@
 # GSSR
 
-**This is an implementation of Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution.**
+**This is an implementation of ["Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution"](https://ieeexplore.ieee.org/abstract/document/10011536).**
 
 Dataset
 ------
